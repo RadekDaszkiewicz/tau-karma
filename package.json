@@ -1,0 +1,23 @@
+{
+  "name": "tau-karma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "radek",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.3.0",
+    "jasmine-jquery": "^2.1.1",
+    "karma": "^4.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^2.0.1"
+  },
+  "dependencies": {
+    "karma-cli": "^2.0.0",
+    "jquery": "^3.3.1"
+  }
+}
